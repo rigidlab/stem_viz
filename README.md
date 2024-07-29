@@ -1,2 +1,2 @@
 # visualizations
-Visualizations of technical concepts
+Visualizations of various fields
